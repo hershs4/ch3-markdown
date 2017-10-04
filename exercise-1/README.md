@@ -6,8 +6,8 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-`“Hey," said Shadow. "Huginn or Muninn, or whoever you are."
+>“Hey," said Shadow. "Huginn or Muninn, or whoever you are."
 The bird turned, head tipped, suspiciously, on one side, and it stared at him with bright eyes.
 "Say 'Nevermore,'" said Shadow.
-"Fuck you," said the raven.”``
+"Fuck you," said the raven.”
 [Neil Gaiman, _American Gods_](https://www.goodreads.com/work/quotes/1970226-american-gods)
